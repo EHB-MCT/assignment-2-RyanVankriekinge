@@ -20,6 +20,7 @@ specifically, Pygame).
 - Run ```python main.py```
 
 ## Project structure
+```
 assignment-2-RyanVankriekinge/
 │
 ├── assets/                    # Directory for all asset files (images, sounds, etc.)
@@ -43,7 +44,7 @@ assignment-2-RyanVankriekinge/
 ├── LICENSE                    # License information
 ├── README.md                  # Project documentation
 ├── requirements.txt           # List of Python dependencies
-
+```
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
