@@ -6,9 +6,14 @@ This project currently contains only dummy code that shows the conventions used 
 specifically, Pygame).
 
 ## Up & running 
-### Installation Pygame
-- Download Python from [Python website](https://www.python.org/downloads/)
+### Requirements
+- Python 3.2+
+- Pygame 2.6+
+
+### Installation Python + Pygame
+- Download Python 3.12 (or higher) from [Python website](https://www.python.org/downloads/)
 - Install pygame: <br> ```pip install pygame```
+- Confirm that Pygame version corresponds to requirements: <br> ```pip show pygame```
 
 ### Installation project
 - Clone the repository: <br> ```git clone https://github.com/username/project-name.git```
