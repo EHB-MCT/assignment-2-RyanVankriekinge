@@ -1,4 +1,4 @@
-# Python pygame platformer
+# Python pygame collision game
 A simple collision detection game created with Python's Pygame library. There's enemies moving around the screen and 
 the player needs to avoid hitting the enemies by moving with the arrow keys or with WASD.
 
