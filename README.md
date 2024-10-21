@@ -6,8 +6,18 @@ This project currently contains only dummy code that shows the conventions used 
 specifically, Pygame).
 
 ## Up & running 
+### Installation Pygame
 - Download Python from [Python website](https://www.python.org/downloads/)
-- Install pygame: ```pip install pygame```
+- Install pygame: <br> ```pip install pygame```
+
+### Installation project
+- Clone the repository: <br> ```git clone https://github.com/username/project-name.git```
+- Navigate to project directory: <br> ```cd assignment-1-ryanv```
+- Install dependencies: <br>```pip install -r requirements.txt```
+
+### Run project
+- Navigate to src directory: <br> ```cd src```
+- Run ```python main.py```
 
 ## Sources 
 - [Pygame Installation Guide](https://www.pygame.org/wiki/GettingStarted) used to install Pygame

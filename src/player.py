@@ -10,7 +10,7 @@ class Player:
         speed, and movement attributes.
         """
         # Load the player image
-        self.image = pygame.image.load('assets/images/dynamics/player.png')
+        self.image = pygame.image.load('../assets/images/dynamics/player.png')
 
         # Resize the player image (reduce size)
         original_width, original_height = self.image.get_size()

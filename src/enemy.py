@@ -15,7 +15,7 @@ class Enemy:
             player_size (tuple): Size of the player (to scale enemy to same size).
         """
         # Load the enemy image and resize it
-        self.image = pygame.image.load('assets/images/dynamics/enemy.png')
+        self.image = pygame.image.load('../assets/images/dynamics/enemy.png')
         self.image = pygame.transform.scale(self.image, player_size)  # Same size as player
 
         # Get the rect (for positioning and collisions)
