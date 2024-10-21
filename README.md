@@ -17,7 +17,7 @@ specifically, Pygame).
 
 ### Run project
 - Navigate to src directory: <br> ```cd src```
-- Run ```python main.py```
+- Run <br> ```python main.py```
 
 ## Project structure
 ```
